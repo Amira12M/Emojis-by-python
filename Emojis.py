@@ -5,7 +5,7 @@
  
  
 import emoji 
-print (emoji .emojize(": slightly_ smiling _ face :"))
+print (emoji.emojize(":slightly_smiling_face:"))
 print(emoji.emojize(":grinning_face_with_big_eyes:"))
 print(emoji.emojize(":winking_face_with_tongue:"))
 print(emoji.emojize(":zipper-mouth_face:"))
